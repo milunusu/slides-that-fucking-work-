@@ -19,7 +19,7 @@ app.frame('/first', (c) => {
   
   return c.res({
     action: '/second',
-    image: 'https://indigo-advisory-gorilla-502.mypinata.cloud/ipfs/QmQGN79J7rwX2NmZdEnyX6ViGWAiSJ6irMCyxFQmC4H2VL/0.jpg',
+    image: 'https://www.google.com/url?sa=i&url=https%3A%2F%2Fvetsonparker.com.au%2Fkids-corner%2Ffun-rabbit-facts%2F&psig=AOvVaw3pIu6Nn5uqYt_OjNBf8Whb&ust=1712362066526000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNDGzPfjqYUDFQAAAAAdAAAAABAE',
     intents: [
       <Button>ok but so mediocre</Button>,
     ],
