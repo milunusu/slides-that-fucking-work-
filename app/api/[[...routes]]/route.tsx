@@ -19,7 +19,7 @@ app.frame('/first', (c) => {
   
   return c.res({
     action: '/second',
-    image: 'https://i.ytimg.com/vi/R3UACX5eULI/maxresdefault.jpg',
+    image: 'https://indigo-advisory-gorilla-502.mypinata.cloud/ipfs/QmQGN79J7rwX2NmZdEnyX6ViGWAiSJ6irMCyxFQmC4H2VL/0.jpg',
     intents: [
       <Button>ok but so mediocre</Button>,
     ],
