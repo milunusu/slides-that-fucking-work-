@@ -30,7 +30,7 @@ app.frame('/second', (c) => {
   
   return c.res({
     action: '/first',
-    image: 'https://indigo-advisory-gorilla-502.mypinata.cloud/ipfs/QmQGN79J7rwX2NmZdEnyX6ViGWAiSJ6irMCyxFQmC4H2VL/1.jpg',
+    image: 'https://indigo-advisory-gorilla-502.mypinata.cloud/ipfs/QmQGN79J7rwX2NmZdEnyX6ViGWAiSJ6irMCyxFQmC4H2VL/0.jpg',
     intents: [
       <Button>alright, rude ass rabbit</Button>,
     ],
