@@ -19,7 +19,7 @@ app.frame('/first', (c) => {
   
   return c.res({
     action: '/second',
-    image: 'https://www.google.com/url?sa=i&url=https%3A%2F%2Fvetsonparker.com.au%2Fkids-corner%2Ffun-rabbit-facts%2F&psig=AOvVaw3pIu6Nn5uqYt_OjNBf8Whb&ust=1712362066526000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNDGzPfjqYUDFQAAAAAdAAAAABAE',
+    image: 'https://i.ytimg.com/vi/R3UACX5eULI/maxresdefault.jpg',
     intents: [
       <Button>ok but so mediocre</Button>,
     ],
